@@ -10,9 +10,6 @@ public class App
     {
         System.out.println( "Hello World welcome..!" );
         System.out.println( "java!" );
-        //Added comment  
-
-
-
+      
     }
 }
